@@ -1,1 +1,2 @@
-hi my new commit
+hi my new commit 
+new changes to be commited
